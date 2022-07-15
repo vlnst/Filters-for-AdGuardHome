@@ -1,15 +1,15 @@
-# filters-for-Adguard-Home
+# Filters-for-Adguard-Home
 
 
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+[AdGuardSDNSFilter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"AdGuardSDNSFilter")
 
-https://dl.comss.ru/download/Comss-filters.txt
+[Comss-filters](https://dl.comss.ru/download/Comss-filters.txt"Comss-filters")
 
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt
+[CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt"CoinBlockerLists")
 
-https://adaway.org/hosts.txt
+[AdAwayHosts](https://adaway.org/hosts.txt"AdAwayHosts")
 
-https://badmojr.gitlab.io/1hosts/Lite/adblock.txt
+[1hosts lite](https://badmojr.gitlab.io/1hosts/Lite/adblock.txt "1hosts lite")
 
 https://someonewhocares.org/hosts/zero/hosts
 
