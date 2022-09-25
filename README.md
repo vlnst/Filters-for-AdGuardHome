@@ -19,7 +19,9 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
 
-https://abp.oisd.nl/basic/
+https://abp.oisd.nl/
+
+https://abp.oisd.nl/nsfwbig/
 
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 
