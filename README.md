@@ -1,5 +1,6 @@
-# Filters-for-Adguard-Home
+# Filters for AdguardHome
 
+Here you can find filters for Adguard Home
 
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
@@ -34,4 +35,3 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 https://dl.comss.org/download/warden_trackers.txt
 
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt
-
