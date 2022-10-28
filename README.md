@@ -1,37 +1,43 @@
-# Filters for AdguardHome
+# Filters for AdGuardHome
 
 Here you can find filters for Adguard Home
 
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+## Main
 
-https://dl.comss.ru/download/Comss-filters.txt
+* [Schakal's hosts](https://schakal.ru/hosts/hosts.txt) 
 
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt
+Homepage: https://4pda.to/forum/index.php?showtopic=275091&view=findpost&p=89665467
 
-https://adaway.org/hosts.txt
+* [1Hosts Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt)
 
-https://badmojr.gitlab.io/1hosts/Lite/adblock.txt
+Homepage: https://github.com/badmojr/1Hosts
 
-https://someonewhocares.org/hosts/zero/hosts
+* [oisd full](https://abp.oisd.nl/)
 
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+Homepage: https://oisd.nl
 
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+* [NoTracking hosts](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt)
 
-https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+Homepage: https://github.com/notracking/hosts-blocklists
 
-https://abp.oisd.nl/
+* [WindowsSpyBlocker](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 
-https://abp.oisd.nl/nsfwbig/
+Homepage: https://github.com/crazy-max/WindowsSpyBlocker
 
-https://phishing.army/download/phishing_army_blocklist_extended.txt
+* [Developer Dan's Ads & Tracking hosts](https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt) 428751
 
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+Homepage: https://www.github.developerdan.com/hosts
 
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+* [Comss filters](https://dl.comss.org/download/Comss-filters.txt)
 
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+Homepage:
 
-https://dl.comss.org/download/warden_trackers.txt
+* [Warden Trackers](https://gitlab.com/AuroraOSS/AppWarden/-/raw/master/hosts/warden_trackers.txt)
 
-https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt
+Homepage: https://gitlab.com/AuroraOSS/AppWarden
+
+## Optional
+
+* [oisd nsfw](https://abp.oisd.nl/nsfwbig/)
+
+Homepage: https://oisd.nl/
