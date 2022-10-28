@@ -10,7 +10,7 @@ Homepage: https://4pda.to/forum/index.php?showtopic=275091&view=findpost&p=89665
 
 ### [1Hosts Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt)
 
-Homepage: ```https://github.com/badmojr/1Hosts```
+Homepage: https://github.com/badmojr/1Hosts
 
 ### [oisd full](https://abp.oisd.nl/)
 
