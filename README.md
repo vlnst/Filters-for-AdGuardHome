@@ -41,3 +41,7 @@ Homepage: https://gitlab.com/AuroraOSS/AppWarden
 ### [oisd nsfw](https://abp.oisd.nl/nsfwbig/)
 
 Homepage: https://oisd.nl
+
+## Another filters:
+
+https://filterlists.com
